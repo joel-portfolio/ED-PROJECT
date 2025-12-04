@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<distritos>
+		<distrito>
+			<cod>18</cod>
+			<nome>VISEU</nome>
+		</distrito>
+		<distrito>
+			<cod>17</cod>
+			<nome>VILA REAL
+</nome>
+		</distrito>
+		<distrito>
+			<cod>16</cod>
+			<nome>VIANA DO CASTELO
+</nome>
+		</distrito>
+		<distrito>
+			<cod>15</cod>
+			<nome>SETUBAL
+</nome>
+		</distrito>
+		<distrito>
+			<cod>14</cod>
+			<nome>SANTAREM
+</nome>
+		</distrito>
+		<distrito>
+			<cod>13</cod>
+			<nome>PORTO
+</nome>
+		</distrito>
+		<distrito>
+			<cod>12</cod>
+			<nome>PORTALEGRE
+</nome>
+		</distrito>
+		<distrito>
+			<cod>11</cod>
+			<nome>LISBOA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>10</cod>
+			<nome>LEIRIA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>09</cod>
+			<nome>GUARDA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>08</cod>
+			<nome>FARO
+</nome>
+		</distrito>
+		<distrito>
+			<cod>07</cod>
+			<nome>EVORA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>06</cod>
+			<nome>COIMBRA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>05</cod>
+			<nome>C BRANCO
+</nome>
+		</distrito>
+		<distrito>
+			<cod>04</cod>
+			<nome>BRAGANCA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>03</cod>
+			<nome>BRAGA
+</nome>
+		</distrito>
+		<distrito>
+			<cod>02 </cod>
+			<nome>BEJA 
+</nome>
+		</distrito>
+		<distrito>
+			<cod>01</cod>
+			<nome>AVEIRO
+</nome>
+		</distrito>
+	</distritos>
+	<concelhos>
+		<concelho>
+			<cod>24</cod>
+			<nome>Vouzela</nome>
+			<distrito>ออออออออเ•	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>23</cod>
+			<nome>Viseu
+</nome>
+			<distrito>ออออออออเ•	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>22</cod>
+			<nome>Vila Nova de Paiva
+</nome>
+			<distrito>ออออออออเ•	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>21</cod>
+			<nome>Tondela
+</nome>
+			<distrito>ออออออออเ•	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>21</cod>
+			<nome>Ourem
+</nome>
+			<distrito>ออออออออ`	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>20</cod>
+			<nome>Vila Nova da Barquinha
+</nome>
+			<distrito>ออออออออ`	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>19</cod>
+			<nome>Torres Novas
+</nome>
+			<distrito>ออออออออ`	ฯ</distrito>
+		</concelho>
+		<concelho>
+			<cod>19</cod>
+			<nome>Vale de Cambra
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>18</cod>
+			<nome>Vagos
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>17</cod>
+			<nome>Sever do Vouga
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>16</cod>
+			<nome>S. Joao da Madeira
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>15</cod>
+			<nome>Ovar
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>14</cod>
+			<nome>Oliveira do Bairro
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>13</cod>
+			<nome>Oliveira de Azemeis
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>12</cod>
+			<nome>Murtosa
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>11</cod>
+			<nome>Mealhada
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>10</cod>
+			<nome>Ilhavo
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>09</cod>
+			<nome>Santa Maria da Feira
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>08</cod>
+			<nome>Estarreja
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>07</cod>
+			<nome>Espinho
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>06</cod>
+			<nome>Castelo de Paiva
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>05</cod>
+			<nome>Aveiro
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>04</cod>
+			<nome>Arouca
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>03</cod>
+			<nome>Anadia
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>02</cod>
+			<nome>Albergaria-A-Velha
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+		<concelho>
+			<cod>01</cod>
+			<nome>Agueda
+</nome>
+			<distrito>(null)</distrito>
+		</concelho>
+	</concelhos>
+	<fre

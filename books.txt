@@ -1,0 +1,11 @@
+9789722342646	O Conde de Monte Cristo	Alexandre Dumas	AVENTURA	1844	0
+9789722534229	Os Maias	Eça de Queirós	CLÁSSICO	1888	0
+9789722341984	Dom Quixote	Miguel de Cervantes	CLÁSSICO	1605	0
+9789722121825	Amor de Perdição	Camilo Castelo Branco	CLÁSSICO	1862	0
+9789722027103	O Primo Basílio	Eça de Queirós	CLÁSSICO	1878	0
+9789722337505	A Guerra dos Tronos	George R.R. Martin	FANTASIA	1996	0
+9789722335120	O Senhor dos Anéis: A Irmandade do Anel	J.R.R. Tolkien	FANTASIA	1954	0
+9789727114538	A Montanha Mágica	Thomas Mann	FICÇÃO	1924	0
+9789723016226	Capitães da Areia	Jorge Amado	FICÇÃO	1937	0
+9789720701223	Aparição	Vergílio Ferreira	FICÇÃO	1959	1
+abc123	a flor	joel t m	LEITURA	2024	1

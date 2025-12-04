@@ -1,0 +1,9 @@
+.vs/
+*.user
+*.vcxproj.user
+*.zip
+Debug/
+Release/
+*.log
+*.idx
+*.vsidx
